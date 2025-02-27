@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/8c2be6f9903f41bc809da70ab430f65a/artifacts
+end_time: 1740700150002
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 8c2be6f9903f41bc809da70ab430f65a
+run_name: selective-mouse-89
+run_uuid: 8c2be6f9903f41bc809da70ab430f65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700146868
+status: 3
+tags: []
+user_id: pj00

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/e15e8a9510084b24bb2626df71c8deec/artifacts
+end_time: 1740700123328
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: e15e8a9510084b24bb2626df71c8deec
+run_name: peaceful-shark-502
+run_uuid: e15e8a9510084b24bb2626df71c8deec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700120423
+status: 3
+tags: []
+user_id: pj00

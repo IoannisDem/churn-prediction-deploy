@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/3efc803b0d89433c8ae6464144f78552/artifacts
+end_time: 1740700173465
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 3efc803b0d89433c8ae6464144f78552
+run_name: shivering-seal-955
+run_uuid: 3efc803b0d89433c8ae6464144f78552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700170612
+status: 3
+tags: []
+user_id: pj00

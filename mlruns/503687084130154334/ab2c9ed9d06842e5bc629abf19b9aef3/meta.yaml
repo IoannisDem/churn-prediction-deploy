@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/ab2c9ed9d06842e5bc629abf19b9aef3/artifacts
+end_time: 1740700110764
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: ab2c9ed9d06842e5bc629abf19b9aef3
+run_name: languid-bear-51
+run_uuid: ab2c9ed9d06842e5bc629abf19b9aef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700107656
+status: 3
+tags: []
+user_id: pj00

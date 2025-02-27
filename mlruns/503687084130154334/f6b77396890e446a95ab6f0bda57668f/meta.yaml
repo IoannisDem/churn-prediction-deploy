@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/f6b77396890e446a95ab6f0bda57668f/artifacts
+end_time: 1740700155894
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: f6b77396890e446a95ab6f0bda57668f
+run_name: capable-mouse-490
+run_uuid: f6b77396890e446a95ab6f0bda57668f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700153025
+status: 3
+tags: []
+user_id: pj00

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/28e4f95c5fb84b0cad5f676a41a7ab53/artifacts
+end_time: 1740700131853
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 28e4f95c5fb84b0cad5f676a41a7ab53
+run_name: welcoming-tern-943
+run_uuid: 28e4f95c5fb84b0cad5f676a41a7ab53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700129021
+status: 3
+tags: []
+user_id: pj00

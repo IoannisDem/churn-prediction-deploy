@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/7836e8c3f26e46888ac61c92cdf7df73/artifacts
+end_time: 1740700088590
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 7836e8c3f26e46888ac61c92cdf7df73
+run_name: worried-gnat-821
+run_uuid: 7836e8c3f26e46888ac61c92cdf7df73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700085533
+status: 3
+tags: []
+user_id: pj00

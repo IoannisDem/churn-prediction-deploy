@@ -1,6 +1,0 @@
-artifact_location: file:///home/pj00/projects/Github/churn-prediction-deploy/mlruns/361393555524918426
-creation_time: 1740699171386
-experiment_id: '361393555524918426'
-last_update_time: 1740699171386
-lifecycle_stage: active
-name: Churn prediction

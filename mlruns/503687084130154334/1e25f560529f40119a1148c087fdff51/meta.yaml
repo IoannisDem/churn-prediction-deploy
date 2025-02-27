@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/1e25f560529f40119a1148c087fdff51/artifacts
+end_time: 1740700143636
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 1e25f560529f40119a1148c087fdff51
+run_name: treasured-cow-113
+run_uuid: 1e25f560529f40119a1148c087fdff51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700140566
+status: 3
+tags: []
+user_id: pj00

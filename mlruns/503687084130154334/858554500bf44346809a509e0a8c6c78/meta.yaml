@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/858554500bf44346809a509e0a8c6c78/artifacts
+end_time: 1740700091699
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 858554500bf44346809a509e0a8c6c78
+run_name: likeable-steed-932
+run_uuid: 858554500bf44346809a509e0a8c6c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700088613
+status: 3
+tags: []
+user_id: pj00

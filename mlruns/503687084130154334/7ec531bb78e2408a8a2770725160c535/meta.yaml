@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/7ec531bb78e2408a8a2770725160c535/artifacts
+end_time: 1740700104450
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: 7ec531bb78e2408a8a2770725160c535
+run_name: hilarious-rook-209
+run_uuid: 7ec531bb78e2408a8a2770725160c535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700101492
+status: 3
+tags: []
+user_id: pj00

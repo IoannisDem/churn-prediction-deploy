@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/af8df71100ea4650be90d8b55ed7cac8/artifacts
+end_time: 1740700098194
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: af8df71100ea4650be90d8b55ed7cac8
+run_name: popular-wolf-65
+run_uuid: af8df71100ea4650be90d8b55ed7cac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700095020
+status: 3
+tags: []
+user_id: pj00

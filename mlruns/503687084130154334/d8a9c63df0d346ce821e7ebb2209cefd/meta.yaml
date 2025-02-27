@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/d8a9c63df0d346ce821e7ebb2209cefd/artifacts
+end_time: 1740700161659
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: d8a9c63df0d346ce821e7ebb2209cefd
+run_name: popular-ant-857
+run_uuid: d8a9c63df0d346ce821e7ebb2209cefd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700158798
+status: 3
+tags: []
+user_id: pj00

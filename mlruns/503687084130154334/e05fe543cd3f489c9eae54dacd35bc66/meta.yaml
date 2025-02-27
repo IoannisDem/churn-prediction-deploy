@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/e05fe543cd3f489c9eae54dacd35bc66/artifacts
+end_time: 1740700094996
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: e05fe543cd3f489c9eae54dacd35bc66
+run_name: resilient-mink-54
+run_uuid: e05fe543cd3f489c9eae54dacd35bc66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700091720
+status: 3
+tags: []
+user_id: pj00

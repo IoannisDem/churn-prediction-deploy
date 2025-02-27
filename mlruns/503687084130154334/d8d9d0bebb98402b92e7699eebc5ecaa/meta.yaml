@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/503687084130154334/d8d9d0bebb98402b92e7699eebc5ecaa/artifacts
+end_time: 1740700085509
+entry_point_name: ''
+experiment_id: '503687084130154334'
+lifecycle_stage: active
+run_id: d8d9d0bebb98402b92e7699eebc5ecaa
+run_name: rebellious-moth-837
+run_uuid: d8d9d0bebb98402b92e7699eebc5ecaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740700081263
+status: 3
+tags: []
+user_id: pj00
