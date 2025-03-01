@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/b38b78870b9f40d2bf22efdf850c1251/artifacts
+end_time: 1740848791343
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: b38b78870b9f40d2bf22efdf850c1251
+run_name: brawny-hawk-138
+run_uuid: b38b78870b9f40d2bf22efdf850c1251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848788437
+status: 3
+tags: []
+user_id: pj00

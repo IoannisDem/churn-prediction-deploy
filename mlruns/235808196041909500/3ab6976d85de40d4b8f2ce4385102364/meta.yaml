@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/3ab6976d85de40d4b8f2ce4385102364/artifacts
+end_time: 1740848817223
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 3ab6976d85de40d4b8f2ce4385102364
+run_name: bemused-dove-136
+run_uuid: 3ab6976d85de40d4b8f2ce4385102364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848813815
+status: 3
+tags: []
+user_id: pj00

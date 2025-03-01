@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/0014282137b04dc89f3f26e92ac697ee/artifacts
+end_time: 1740848751735
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 0014282137b04dc89f3f26e92ac697ee
+run_name: bald-shrimp-547
+run_uuid: 0014282137b04dc89f3f26e92ac697ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848748505
+status: 3
+tags: []
+user_id: pj00

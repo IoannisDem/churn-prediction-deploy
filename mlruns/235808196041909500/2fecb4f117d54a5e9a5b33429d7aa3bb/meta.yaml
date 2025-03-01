@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/2fecb4f117d54a5e9a5b33429d7aa3bb/artifacts
+end_time: 1740848810373
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 2fecb4f117d54a5e9a5b33429d7aa3bb
+run_name: bedecked-penguin-109
+run_uuid: 2fecb4f117d54a5e9a5b33429d7aa3bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848807110
+status: 3
+tags: []
+user_id: pj00

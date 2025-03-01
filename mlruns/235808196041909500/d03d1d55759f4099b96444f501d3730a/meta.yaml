@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/d03d1d55759f4099b96444f501d3730a/artifacts
+end_time: 1740848813776
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: d03d1d55759f4099b96444f501d3730a
+run_name: thoughtful-elk-545
+run_uuid: d03d1d55759f4099b96444f501d3730a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848810416
+status: 3
+tags: []
+user_id: pj00

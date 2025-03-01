@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/d6941a9b53b64688b89de76b09700018/artifacts
+end_time: 1740848782693
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: d6941a9b53b64688b89de76b09700018
+run_name: worried-rook-489
+run_uuid: d6941a9b53b64688b89de76b09700018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848779838
+status: 3
+tags: []
+user_id: pj00

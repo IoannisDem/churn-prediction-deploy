@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/f9eb5cfe83d445d382093ee7bd96ac0c/artifacts
+end_time: 1740848788418
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: f9eb5cfe83d445d382093ee7bd96ac0c
+run_name: carefree-lamb-64
+run_uuid: f9eb5cfe83d445d382093ee7bd96ac0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848785558
+status: 3
+tags: []
+user_id: pj00

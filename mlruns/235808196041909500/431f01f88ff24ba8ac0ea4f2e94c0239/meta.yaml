@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/431f01f88ff24ba8ac0ea4f2e94c0239/artifacts
+end_time: 1740848779817
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 431f01f88ff24ba8ac0ea4f2e94c0239
+run_name: gaudy-fawn-240
+run_uuid: 431f01f88ff24ba8ac0ea4f2e94c0239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848776793
+status: 3
+tags: []
+user_id: pj00

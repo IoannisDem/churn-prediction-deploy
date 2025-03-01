@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/24d1b51da1614bc597e6accf067ed655/artifacts
+end_time: 1740848840788
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 24d1b51da1614bc597e6accf067ed655
+run_name: flawless-asp-594
+run_uuid: 24d1b51da1614bc597e6accf067ed655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848837868
+status: 3
+tags: []
+user_id: pj00

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/256c5f7592f4420396fc829c4d105093/artifacts
+end_time: 1740848843655
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 256c5f7592f4420396fc829c4d105093
+run_name: luminous-wasp-592
+run_uuid: 256c5f7592f4420396fc829c4d105093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848744453
+status: 3
+tags: []
+user_id: pj00

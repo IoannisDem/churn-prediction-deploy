@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/c51e2fe3095749cf821379a200b0de42/artifacts
+end_time: 1740848837804
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: c51e2fe3095749cf821379a200b0de42
+run_name: enthused-flea-531
+run_uuid: c51e2fe3095749cf821379a200b0de42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848834640
+status: 3
+tags: []
+user_id: pj00

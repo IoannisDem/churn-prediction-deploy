@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235808196041909500/2fb0e5d7833849e2805061b95135bfc2/artifacts
+end_time: 1740848794312
+entry_point_name: ''
+experiment_id: '235808196041909500'
+lifecycle_stage: active
+run_id: 2fb0e5d7833849e2805061b95135bfc2
+run_name: resilient-shoat-444
+run_uuid: 2fb0e5d7833849e2805061b95135bfc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848791363
+status: 3
+tags: []
+user_id: pj00
